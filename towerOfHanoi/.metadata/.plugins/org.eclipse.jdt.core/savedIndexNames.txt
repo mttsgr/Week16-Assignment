@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\Users\matts\STS\Week13-Assignment\towerOfHanoi\.metadata\.plugins\org.eclipse.jdt.core
-2062692582.index
-1865797976.index
-2636786882.index
